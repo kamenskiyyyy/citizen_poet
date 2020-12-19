@@ -1,0 +1,19 @@
+/* Norvalize */
+@import url(../vendor/normalize.css);
+
+/* Шрифт Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+/* Page style  */
+@import url(../block/page/page.css);
+
+/* Header style */
+@import url(../block/header/header.css);
+@import url(../block/favorites/favorites.css);
+@import url(../block/favorites/__item/_title/favorites__item_title.css);
+@import url(../block/favorites/__title/favorites__title.css);
+@import url(../block/favorites/__icon/favorites__icon.css);
+@import url(../block/favorites/__item/__desc/favorites__item_desc.css);
+@import url(../block/favorites/__desc/favorites__desc.css);
+@import url(../block/favorites/__sum/favorites__sum.css);
+@import url(../block/favorites/__button/favorites__button.css);
