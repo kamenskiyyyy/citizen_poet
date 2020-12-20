@@ -1,0 +1,11 @@
+.request__card_link {
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration: none;
+    color: unset;
+}
+
+.request__card_link:hover, .request__card_link:focus, .request__card_link:active {
+    color: #DDBC04;
+    border-bottom: 1px #DDBC04 solid;
+}

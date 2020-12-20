@@ -1,0 +1,6 @@
+.request__card {
+    margin: 0;
+    border: 1px solid #000000;
+    position: relative;
+    padding: 25px;
+}
