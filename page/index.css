@@ -30,3 +30,16 @@
 @import url(../block/request/__card/_button/request__card_button.css);
 @import url(../block/request/__card/_desc/request__card_desc.css);
 @import url(../block/request/__card/_link/request__card_link.css);
+
+/* Footer style */
+@import url(../block/footer/footer.css);
+@import url(../block/footer/__span/footer__span.css);
+@import url(../block/footer/__desc/footer__desc.css);
+@import url(../block/footer/__logo/footer__logo.css);
+@import url(../block/footer/__desc/_links/footer__desc_links.css);
+@import url(../block/footer/__desc/_p/footer__desc_p.css);
+@import url(../block/footer/__desc/_link/footer__desc_link.css);
+@import url(../block/footer/__info/footer__info.css);
+@import url(../block/footer/__nav/footer__nav.css);
+@import url(../block/footer/__input/footer__input.css);
+@import url(../block/footer/__button/footer__button.css);
