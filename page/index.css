@@ -17,3 +17,9 @@
 @import url(../block/favorites/__desc/favorites__desc.css);
 @import url(../block/favorites/__sum/favorites__sum.css);
 @import url(../block/favorites/__button/favorites__button.css);
+
+/* Search style */
+@import url(../block/search/search.css);
+@import url(../block/main-text/main-text.css);
+@import url(../block/struct-list/struct-list.css);
+@import url(../block/search-line/search-line.css);

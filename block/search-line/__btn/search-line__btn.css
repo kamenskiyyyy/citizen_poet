@@ -1,0 +1,24 @@
+.search-line__btn {
+  width: 150px;
+  height: 28px;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  margin: 14px 16px 14px 0;
+  padding: 0;
+  background-color: transparent;
+  border-width: 0;
+  border-style: none;
+  color:#fff;
+}
+
+.search-line__btn:hover{
+  opacity: 0.8;
+  transition: .2s ease-in-out;
+  cursor: pointer;
+}
+
+search-line__btn:focus{
+  outline: none;
+
+}
