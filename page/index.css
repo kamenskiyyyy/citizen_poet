@@ -18,8 +18,36 @@
 @import url(../block/favorites/__sum/favorites__sum.css);
 @import url(../block/favorites/__button/favorites__button.css);
 
+<<<<<<< HEAD
 /* Search style */
 @import url(../block/search/search.css);
 @import url(../block/main-text/main-text.css);
 @import url(../block/struct-list/struct-list.css);
 @import url(../block/search-line/search-line.css);
+=======
+/* Request style */
+@import url(../block/request/request.css);
+@import url(../block/request/__title/request__title.css);
+@import url(../block/request/__category/request__category.css);
+@import url(../block/request/__category/_item/request__category_item.css);
+@import url(../block/request/__category/_link/request__category_link.css);
+@import url(../block/request/__cards/request__cards.css);
+@import url(../block/request/__card/request__card.css);
+@import url(../block/request/__card/_title/request__card_title.css);
+@import url(../block/request/__card/_button/request__card_button.css);
+@import url(../block/request/__card/_desc/request__card_desc.css);
+@import url(../block/request/__card/_link/request__card_link.css);
+
+/* Footer style */
+@import url(../block/footer/footer.css);
+@import url(../block/footer/__span/footer__span.css);
+@import url(../block/footer/__desc/footer__desc.css);
+@import url(../block/footer/__logo/footer__logo.css);
+@import url(../block/footer/__desc/_links/footer__desc_links.css);
+@import url(../block/footer/__desc/_p/footer__desc_p.css);
+@import url(../block/footer/__desc/_link/footer__desc_link.css);
+@import url(../block/footer/__info/footer__info.css);
+@import url(../block/footer/__nav/footer__nav.css);
+@import url(../block/footer/__input/footer__input.css);
+@import url(../block/footer/__button/footer__button.css);
+>>>>>>> 5370d9b294eff054a5c91d403ca8f129a4666951

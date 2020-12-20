@@ -1,0 +1,6 @@
+.footer__desc_links {
+    margin-top: 33px;
+    margin-bottom: 13px;
+    display: flex;
+    flex-direction: row;
+}
