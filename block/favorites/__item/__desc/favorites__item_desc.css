@@ -1,0 +1,7 @@
+.favorites__item_desc {
+    margin: 0;
+    margin: 11px 24px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

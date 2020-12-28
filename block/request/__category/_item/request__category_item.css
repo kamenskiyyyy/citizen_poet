@@ -1,0 +1,16 @@
+.request__category_item {
+    margin-right: 24px;
+    font-size: 16px;
+    line-height: 19px;
+    padding-bottom: 3px;
+    border-bottom: 1px white solid;
+}
+
+.request__category_item:last-child {
+    margin-right: 0px;
+}
+
+.request__category_item:hover, .request__category_item:focus, .request__category_item:active {
+    color: #DDBC04;
+    border-bottom: 1px #DDBC04 solid;
+}

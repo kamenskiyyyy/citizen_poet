@@ -1,0 +1,20 @@
+.struct-list__item{
+  width: 64px;
+  height: 64px;
+  margin-right: 32px;
+}
+
+.struct-list__item:last-of-type{
+  margin-right: 0px;
+  border-radius: 50%;
+  border: 1px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.struct-list__item:hover{
+transform: translate(0, -10px);
+transition: .5s ease-in-out;
+cursor: pointer;
+}

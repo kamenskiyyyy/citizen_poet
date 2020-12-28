@@ -1,0 +1,11 @@
+@import url(./__input/search-line__input.css);
+@import url(./__btn/search-line__btn.css);
+
+.search-line {
+background-color: #000;
+height: 56px;
+display: flex;
+align-items: center;
+border-radius: 10px;
+justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+@import url(./__item/struct-list__item.css);
+
+.struct-list{
+  display: flex;
+  margin: 20px 0 15px;
+}

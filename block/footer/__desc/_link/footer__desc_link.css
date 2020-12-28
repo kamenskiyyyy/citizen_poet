@@ -1,0 +1,9 @@
+.footer__desc_link {
+    text-decoration: none;
+    color: unset;
+}
+
+.footer__desc_link:hover, .footer__desc_link:focus, .footer__desc_link:active {
+    color: #DDBC04;
+    text-decoration: underline;
+}
